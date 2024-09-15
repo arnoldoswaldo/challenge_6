@@ -4,7 +4,7 @@ Reto 6 poo, este repositorio contiene manejo de excepciones aplicadas a ejercici
 ___________________________________________________________________________________________
 PARTE 1 aplicacion excepciones a los ejercicios realizados en el reto 1
 
-ENCONTAR CARACTERES IGUALES
+ENCONTAR CARACTERES IGUALES PALABRAS
 ```
 def encontrar_iguales(lista_palabras):
     # Diccionario que almacena las palabras
